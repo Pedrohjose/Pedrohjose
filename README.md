@@ -7,7 +7,7 @@
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrohjose&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut)]([https://github.com/Pedrohjose](https://github.com/Pedrohjose?tab=repositories)/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut)]([https://github.com/Pedrohjose]/github-readme-stats)
 
 ### Conhecimento em:
 
