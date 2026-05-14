@@ -1,7 +1,7 @@
 <h2 align="center">Olá! Eu sou o Pedro Henrique José 👋</h2>
 
 <p align="center">
-  Desenvolvedor FullStack em formação, com foco em desenvolvimento web, backend, frontend e criação de sistemas completos.
+  Desenvolvedor FullStack em formação, com foco em desenvolvimento web, backend, frontend e sistemas completos.
 </p>
 
 ---
@@ -10,15 +10,15 @@
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=pedro2007hj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/pedro-henrique-jos%C3%A9-0b5b81308/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://github.com/Pedrohjose">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -28,27 +28,27 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrohjose&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=Pedrohjose&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" 
+  />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohjose&layout=compact&theme=merko&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrohjose&theme=merko&hide_border=true" />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohjose&layout=compact&theme=merko&hide_border=true" 
+  />
 
 </div>
 
 ---
 
-<h3 align="center">🏆 Troféus</h3>
+<h3 align="center">🔥 Sequência de contribuições</h3>
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Pedrohjose&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrohjose&theme=merko&hide_border=true" 
+  />
 
 </div>
 
@@ -84,20 +84,8 @@
 <h3 align="center">🚀 Atualmente estudando</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
-
----
-
-<h3 align="center">📌 Projeto em destaque</h3>
-
-<div align="center">
-
-  <a href="https://github.com/Nexovest/NexoVest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nexovest&repo=NexoVest&theme=merko&hide_border=true" />
-  </a>
-
-</div>
