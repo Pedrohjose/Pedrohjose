@@ -24,44 +24,6 @@
 
 ---
 
-<h3 align="center">📊 Estatísticas do GitHub</h3>
-
-<div align="center">
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=Pedrohjose&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" 
-  />
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohjose&layout=compact&theme=merko&hide_border=true" 
-  />
-
-</div>
-
----
-
-<h3 align="center">🔥 Sequência de contribuições</h3>
-
-<div align="center">
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrojose&theme=merko&hide_border=true" 
-  />
-
-</div>
-
----
-
-<h3 align="center">👁️ Visualizações do perfil</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pedrohjose&style=for-the-badge&color=brightgreen" />
-</p>
-
----
-
 <h3 align="center">🛠️ Conhecimentos</h3>
 
 <div align="center">
