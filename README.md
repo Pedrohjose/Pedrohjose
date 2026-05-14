@@ -47,7 +47,7 @@
 <div align="center">
 
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrohjose&theme=merko&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrojose&theme=merko&hide_border=true" 
   />
 
 </div>
