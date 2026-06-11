@@ -176,15 +176,11 @@
 
 ---
 
-<!--
-  Troféus via github-profile-trophy estavam fora do ar (HTTP 402 - cota do
-  servico gratuito esgotada). Quando o servico voltar, basta descomentar:
+<h2 align="center">🏆 Troféus</h2>
 
-  <h2 align="center">🏆 Troféus</h2>
-  <div align="center">
-    <img width="98%" alt="Troféus do GitHub" src="https://github-profile-trophy.vercel.app/?username=Pedrohjose&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7">
-  </div>
--->
+<div align="center">
+  <img width="98%" alt="Troféus do GitHub" src="https://github-profile-trophy.vercel.app/?username=Pedrohjose&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7">
+</div>
 
 <div align="center">
   <sub>⚡ Atualizado automaticamente · GitHub Actions + lowlighter/metrics</sub>
