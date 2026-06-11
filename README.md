@@ -176,8 +176,10 @@
 
 ---
 
+<h2 align="center">🏆 Conquistas</h2>
+
 <div align="center">
-  <img width="98%" alt="Troféus do GitHub" src="https://github-profile-trophy.vercel.app/?username=Pedrohjose&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7">
+  <img width="98%" alt="Conquistas e medalhas do GitHub de Pedrohjose" src="./metrics-achievements.svg">
 </div>
 
 <div align="center">
