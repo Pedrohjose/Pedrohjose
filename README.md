@@ -1,4 +1,7 @@
-<h1 align="center">Pedro Henrique José</h1>
+<!-- Banner -->
+<div align="center">
+  <img width="100%" alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0077B5&height=180&section=header&text=Pedro%20Henrique%20Jos%C3%A9&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=58&descSize=18">
+</div>
 
 <p align="center">
   Desenvolvedor Full Stack em formação, focado em aplicações web, backend, frontend, APIs e sistemas completos.
@@ -14,6 +17,7 @@
   <a href="https://github.com/Pedrohjose">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <img alt="Visitas no perfil" src="https://komarev.com/ghpvc/?username=Pedrohjose&style=for-the-badge&color=512BD4&label=VISITAS">
 </p>
 
 ---
@@ -133,38 +137,24 @@
 
 ---
 
-<h2 align="center">GitHub em números</h2>
+<h2 align="center">📊 GitHub em números</h2>
+
+<p align="center"><sub>Dados reais da minha conta — incluindo contribuições privadas — gerados automaticamente todo dia via GitHub Actions.</sub></p>
 
 <div align="center">
-  <img width="98%" alt="Resumo do perfil de Pedrohjose no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedrohjose&theme=transparent">
+  <img width="98%" alt="Métricas gerais do GitHub de Pedrohjose" src="./github-metrics.svg">
 </div>
 
 <br>
 
 <div align="center">
-  <img width="49%" alt="Estatísticas gerais do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pedrohjose&theme=transparent">
-  <img width="49%" alt="Horários mais produtivos no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pedrohjose&theme=transparent&utcOffset=-3">
+  <img width="98%" alt="Calendário de contribuições do último ano" src="./metrics-calendar.svg">
 </div>
 
 <br>
 
 <div align="center">
-  <img width="49%" alt="Linguagens por repositório" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pedrohjose&theme=transparent">
-  <img width="49%" alt="Linguagens mais usadas nos commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pedrohjose&theme=transparent">
-</div>
-
----
-
-<h2 align="center">Atividade e commits</h2>
-
-<div align="center">
-  <img width="98%" alt="Gráfico de atividade de commits" src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrohjose&theme=github-compact&hide_border=true&area=true">
-</div>
-
-<br>
-
-<div align="center">
-  <img alt="Sequência de contribuições no GitHub" src="https://streak-stats.demolab.com?user=Pedrohjose&theme=transparent&hide_border=true&locale=pt_BR">
+  <img width="98%" alt="Hábitos e horários mais produtivos" src="./metrics-habits.svg">
 </div>
 
 ---
@@ -183,3 +173,13 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img width="98%" alt="Troféus do GitHub" src="https://github-profile-trophy.vercel.app/?username=Pedrohjose&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7">
+</div>
+
+<div align="center">
+  <sub>⚡ Atualizado automaticamente · GitHub Actions + lowlighter/metrics</sub>
+</div>
