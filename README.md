@@ -148,6 +148,12 @@
 <br>
 
 <div align="center">
+  <img width="98%" alt="Linguagens mais usadas em todos os repositórios" src="./metrics-languages.svg">
+</div>
+
+<br>
+
+<div align="center">
   <img width="98%" alt="Calendário de contribuições do último ano" src="./metrics-calendar.svg">
 </div>
 
