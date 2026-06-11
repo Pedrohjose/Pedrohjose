@@ -151,12 +151,6 @@
   <img width="98%" alt="Calendário de contribuições do último ano" src="./metrics-calendar.svg">
 </div>
 
-<br>
-
-<div align="center">
-  <img width="98%" alt="Hábitos e horários mais produtivos" src="./metrics-habits.svg">
-</div>
-
 ---
 
 <h2 align="center">Contato</h2>
